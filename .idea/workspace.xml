@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ce283b4-0140-43ea-b5c9-c60967e8a059" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/../dealJs.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dealJs.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smc_output/smc-build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../smc_output/smc-build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smc_output/smc-cleanDb.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../smc_output/smc-cleanDb.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/config/config.default.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/config/config.default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/config/config.local.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/config/config.local.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../src/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/company/FolderScanner.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/FileStreamer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/company/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../webSpiderPlus/lib/poi-3.9.jar!/org/apache/poi/poifs/filesystem/DirectoryEntry.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rHIIuYPSyvfWeBGxmmv879u740" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="eggFormatter" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="eggFormatter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="eggFormatter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="eggFormatter" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="eggFormatter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="eggFormatter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="eggFormatter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="eggFormatter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="eggFormatter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="eggFormatter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ce283b4-0140-43ea-b5c9-c60967e8a059" name="Default Changelist" comment="" />
+      <created>1618626512969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618626512969</updated>
+      <workItem from="1618626514163" duration="1252000" />
+      <workItem from="1618640141341" duration="3158000" />
+      <workItem from="1618884477688" duration="601000" />
+      <workItem from="1618898094745" duration="2007000" />
+      <workItem from="1618971360298" duration="597000" />
+      <workItem from="1619082501620" duration="4234000" />
+      <workItem from="1619400150850" duration="7398000" />
+      <workItem from="1619485957340" duration="7439000" />
+      <workItem from="1619579993541" duration="4384000" />
+      <workItem from="1619667061331" duration="858000" />
+      <workItem from="1619677000869" duration="1228000" />
+      <workItem from="1619680079590" duration="119000" />
+      <workItem from="1619686832365" duration="451000" />
+      <workItem from="1619687294904" duration="2029000" />
+      <workItem from="1619745154456" duration="5168000" />
+      <workItem from="1620262271944" duration="2721000" />
+      <workItem from="1620266073347" duration="2141000" />
+      <workItem from="1620281726070" duration="720000" />
+      <workItem from="1620285255917" duration="435000" />
+      <workItem from="1620285705071" duration="652000" />
+      <workItem from="1620286414979" duration="160000" />
+      <workItem from="1620286628019" duration="48000" />
+      <workItem from="1620286700278" duration="296000" />
+      <workItem from="1620287013578" duration="15000" />
+      <workItem from="1620287052297" duration="220000" />
+      <workItem from="1620287290005" duration="278000" />
+      <workItem from="1620287582995" duration="83000" />
+      <workItem from="1620287678663" duration="27000" />
+      <workItem from="1620288273768" duration="2293000" />
+      <workItem from="1620348834288" duration="8000" />
+      <workItem from="1620348862550" duration="1831000" />
+      <workItem from="1620357407735" duration="621000" />
+      <workItem from="1620359063068" duration="464000" />
+      <workItem from="1620366887661" duration="31000" />
+      <workItem from="1620367019441" duration="815000" />
+      <workItem from="1620373025352" duration="32000" />
+      <workItem from="1620373100601" duration="712000" />
+      <workItem from="1620373901626" duration="262000" />
+      <workItem from="1620374721549" duration="653000" />
+      <workItem from="1620377919673" duration="112000" />
+      <workItem from="1620378513942" duration="197000" />
+      <workItem from="1620378768037" duration="248000" />
+      <workItem from="1620379027822" duration="987000" />
+      <workItem from="1620697312493" duration="1321000" />
+      <workItem from="1620716106232" duration="1627000" />
+      <workItem from="1620780704484" duration="4600000" />
+      <workItem from="1620799589891" duration="138000" />
+      <workItem from="1620799742194" duration="42000" />
+      <workItem from="1620799798366" duration="1271000" />
+      <workItem from="1620807622203" duration="23000" />
+      <workItem from="1620807664491" duration="69000" />
+      <workItem from="1620807743952" duration="59000" />
+      <workItem from="1620807864202" duration="764000" />
+      <workItem from="1620808675504" duration="4398000" />
+      <workItem from="1621041586307" duration="610000" />
+      <workItem from="1621221293798" duration="965000" />
+      <workItem from="1621236061154" duration="1768000" />
+      <workItem from="1621238034238" duration="2275000" />
+      <workItem from="1621240405306" duration="6560000" />
+      <workItem from="1621309074427" duration="9683000" />
+      <workItem from="1621318822927" duration="87000" />
+      <workItem from="1621318932837" duration="11913000" />
+      <workItem from="1621416224313" duration="1221000" />
+      <workItem from="1621417888954" duration="7245000" />
+      <workItem from="1621493374912" duration="6861000" />
+      <workItem from="1621503227490" duration="568000" />
+      <workItem from="1621503845719" duration="898000" />
+      <workItem from="1621504822840" duration="3941000" />
+      <workItem from="1621556449091" duration="8130000" />
+      <workItem from="1621828835887" duration="1279000" />
+      <workItem from="1621838759160" duration="659000" />
+      <workItem from="1623310355271" duration="1538000" />
+      <workItem from="1623312656432" duration="122000" />
+      <workItem from="1623312792303" duration="58000" />
+      <workItem from="1623312862733" duration="158000" />
+      <workItem from="1623313031574" duration="135000" />
+      <workItem from="1623313183300" duration="8969000" />
+      <workItem from="1623370736196" duration="373000" />
+      <workItem from="1623371122387" duration="130000" />
+      <workItem from="1623371271707" duration="316000" />
+      <workItem from="1623371609035" duration="1246000" />
+      <workItem from="1623392650172" duration="229000" />
+      <workItem from="1623392885185" duration="339000" />
+      <workItem from="1623393277169" duration="604000" />
+      <workItem from="1623394914462" duration="9402000" />
+      <workItem from="1623718411460" duration="1370000" />
+      <workItem from="1623719880595" duration="108000" />
+      <workItem from="1623720277922" duration="32000" />
+      <workItem from="1623720324418" duration="3872000" />
+      <workItem from="1623735845174" duration="202000" />
+      <workItem from="1623736056973" duration="23000" />
+      <workItem from="1623736091675" duration="2478000" />
+      <workItem from="1623746591414" duration="742000" />
+      <workItem from="1623747391198" duration="119000" />
+      <workItem from="1623747552794" duration="1469000" />
+      <workItem from="1623749082937" duration="41000" />
+      <workItem from="1623749147398" duration="2146000" />
+      <workItem from="1623751342072" duration="8368000" />
+      <workItem from="1623892004364" duration="12000" />
+      <workItem from="1623892050948" duration="3562000" />
+      <workItem from="1623896493332" duration="2337000" />
+      <workItem from="1623899328351" duration="4342000" />
+      <workItem from="1623923862410" duration="2189000" />
+      <workItem from="1623979015705" duration="1020000" />
+      <workItem from="1623980129400" duration="1007000" />
+      <workItem from="1623981193983" duration="877000" />
+      <workItem from="1623982123183" duration="7229000" />
+      <workItem from="1624007581136" duration="341000" />
+      <workItem from="1624008831080" duration="880000" />
+      <workItem from="1624010703338" duration="2525000" />
+      <workItem from="1624236884164" duration="12837000" />
+      <workItem from="1624269581951" duration="2269000" />
+      <workItem from="1624328643795" duration="20719000" />
+      <workItem from="1624583707251" duration="3204000" />
+      <workItem from="1624589239126" duration="341000" />
+      <workItem from="1624589634658" duration="13000" />
+      <workItem from="1624592691218" duration="6536000" />
+      <workItem from="1624693979050" duration="1136000" />
+      <workItem from="1624839638390" duration="4740000" />
+      <workItem from="1624847045985" duration="1554000" />
+      <workItem from="1624866387567" duration="9455000" />
+      <workItem from="1624950697684" duration="661000" />
+      <workItem from="1624952802031" duration="3694000" />
+      <workItem from="1624957146954" duration="2293000" />
+      <workItem from="1625045624506" duration="87000" />
+      <workItem from="1625046948223" duration="2538000" />
+      <workItem from="1625103915379" duration="1982000" />
+      <workItem from="1625106376621" duration="951000" />
+      <workItem from="1625107373906" duration="1655000" />
+      <workItem from="1625121225849" duration="1076000" />
+      <workItem from="1625122434440" duration="21000" />
+      <workItem from="1625122474105" duration="27000" />
+      <workItem from="1625122518238" duration="4750000" />
+      <workItem from="1625184558892" duration="3986000" />
+      <workItem from="1625194570936" duration="2304000" />
+      <workItem from="1625198206800" duration="1938000" />
+      <workItem from="1625209608599" duration="5366000" />
+      <workItem from="1625220227300" duration="3541000" />
+      <workItem from="1625456370383" duration="1244000" />
+      <workItem from="1625465604289" duration="8654000" />
+      <workItem from="1625541191600" duration="257000" />
+      <workItem from="1625541461658" duration="8000" />
+      <workItem from="1625541481329" duration="116000" />
+      <workItem from="1625541611967" duration="375000" />
+      <workItem from="1625542003784" duration="189000" />
+      <workItem from="1625542208611" duration="1301000" />
+      <workItem from="1625544077376" duration="2123000" />
+      <workItem from="1625553670620" duration="4605000" />
+      <workItem from="1625619156789" duration="87000" />
+      <workItem from="1625619261871" duration="5741000" />
+      <workItem from="1625705928389" duration="2398000" />
+      <workItem from="1625735024260" duration="11000" />
+      <workItem from="1625735060148" duration="714000" />
+      <workItem from="1625810635830" duration="1261000" />
+      <workItem from="1625812444550" duration="9354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
